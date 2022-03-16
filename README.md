@@ -1,33 +1,26 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+In this project I focused on learning the basics of React JS and its necessary libraries. For this trial-and-error project I made a personal accounting page that allows a user to input purchases and then see them added to a list on the page. Users are able to input purchase names, dates, and USD amounts, which are then sorted chronologically within the list display of the webpage. A user filter button allows users to filter the list of purchases accordingly. 
 
-{Provide a description the software that you wrote.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* VS Code 1.65.1
+* Javascript ES6
+* React 
+* NPM Terminal Install
+* NPX (Depending on your style)
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [React Complete Guide by Acaemind on Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Define more variables for purchases
+* Implement different CSS rules for the appearance. 
 
 # Getting Started with Create React App
 
