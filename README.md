@@ -3,7 +3,7 @@
 In this project I focused on learning the basics of React JS and its necessary libraries. For this trial-and-error project I made a personal accounting page that allows a user to input purchases and then see them added to a list on the page. Users are able to input purchase names, dates, and USD amounts, which are then sorted chronologically within the list display of the webpage. A user filter button allows users to filter the list of purchases accordingly. 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8UA4dIMQ3N4)
 
 # Development Environment
 
